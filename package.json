@@ -1,0 +1,34 @@
+{
+  "name": "deep-tinker",
+  "version": "0.1.0",
+  "description": "A few tools to get, set, and flatten deep object properties",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monsterbilligt/deep-tinker.git"
+  },
+  "keywords": [
+    "deep",
+    "object",
+    "tools",
+    "node",
+    "react"
+  ],
+  "author": "Gustav Burchardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monsterbilligt/deep-tinker/issues"
+  },
+  "homepage": "https://github.com/Monsterbilligt/deep-tinker#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "mocha": "^6.2.0"
+  }
+}
