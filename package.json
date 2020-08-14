@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/Monsterbilligt/deep-tinker#readme",
   "devDependencies": {
-    "mocha": "^7.1.2"
+    "mocha": "^8.1.1"
   }
 }
