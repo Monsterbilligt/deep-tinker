@@ -66,9 +66,8 @@ describe('set', function () {
     assert.strictEqual(result.foo[0][0].bar.baz[0], 'goodbye world')
   })
 
-  it.skip('should set the correct value even when value does not exist', function () {
+  it('should set the correct value even when value does not exist', function () {
     const result = deep.setDeep(data, 'that[0][1].value.doesNotExist[0]', 'but now it does')
-    console.log(result)
     assert.strictEqual(result.that[0][1].value.doesNotExist[0], 'but now it does')
   })
 })
