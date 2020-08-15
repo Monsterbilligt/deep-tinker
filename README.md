@@ -3,7 +3,7 @@ A few tools to get, set and flatten deep object properties in Javascript.
 
 ## Install
 
-`npm install Monsterbilligt/deep-tinker`
+`npm install Monsterbilligt/deep-tinker#v0.2.2`
 
 ## Usage
 
