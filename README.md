@@ -11,7 +11,7 @@ Generally, do the following:
 
 ```js
 
-import deep from 'deep-tinker'
+import deep from '@monsterbilligt/deep-tinker'
 
 deep.getDeep(obj, path)
 
