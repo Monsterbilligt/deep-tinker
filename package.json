@@ -1,6 +1,6 @@
 {
-  "name": "@monsterbilligt/deep-tinker",
-  "version": "0.2.4",
+  "name": "@Monsterbilligt/deep-tinker",
+  "version": "0.2.7",
   "description": "A few tools to get, set, and flatten deep object properties",
   "main": "lib/index.js",
   "directories": {
