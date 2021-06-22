@@ -1,6 +1,10 @@
 # deep-tinker
 A few tools to get, set and flatten deep object properties in Javascript.
 
+## Set up Github Packages
+
+[Read more here](https://github.com/Monsterbilligt/yup-full-validation#set-up-github-packages-if-you-havent-already)
+
 ## Install
 
 `npm i @monsterbilligt/deep-tinker`
